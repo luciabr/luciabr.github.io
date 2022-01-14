@@ -6,10 +6,10 @@ entries:
     created: "2022-01-14T11:21:11.218661172Z"
     dependencies:
     - name: pages-api
-      repository: http://localhost:8080
+      repository: https://luciabr.github.io/
       version: 1.x.x
     - name: mysql
-      repository: http://localhost:8080
+      repository: https://luciabr.github.io/
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: f587539151cb851eb8ec23163a9c90c1678fc3070c5e025338a93c10f0a64b93
